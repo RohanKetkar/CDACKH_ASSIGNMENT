@@ -11,21 +11,6 @@ System.out.println(hour+"hour equal to "+ans+" second");
 int num = addbyone(hour);//addbyone
 System.out.println("num is "+num);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 System.out.println(maxedgeoftriangle(8,8));
 
 System.out.println(equal(18,28));
@@ -41,8 +26,8 @@ return second;
 static int addbyone(int num){
  num = num+1;
     return num;
+    
 }
-
 
 
 static int maxedgeoftriangle(int num1,int num8){
