@@ -1,5 +1,5 @@
 
-package assignment1;
+package assignment1.program;
 
 class quest2 {
     
