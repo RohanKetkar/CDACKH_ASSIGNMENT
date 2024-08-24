@@ -2,9 +2,6 @@ package assignment2.program;
 
 import java.util.Scanner;
 class Discount {
-    
-
-
 
 public static void main(String args[]){
 Scanner sc = new Scanner(System.in);
