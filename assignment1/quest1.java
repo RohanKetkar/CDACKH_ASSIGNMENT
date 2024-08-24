@@ -21,24 +21,6 @@ return;
 }
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 static boolean positiveornot(int num){
 
     if(num>=0){

@@ -20,11 +20,6 @@ class Demo {
          System.out.print(i + " ");
          }
 
-
-
-
-
-
 int b =10;
 
 int q=b;

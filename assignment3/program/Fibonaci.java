@@ -19,15 +19,9 @@ int tem1=0;
         
         num2=tem1;
     }
-
-
-
-
     System.out.println("fibonaci "+tem1);
 
 }
-
-
 
     }
 
